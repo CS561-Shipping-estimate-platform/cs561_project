@@ -135,3 +135,4 @@ def input(request):  # This function is get data from web and call api then retu
     # ]
     # }
     return JsonResponse(result)
+    
