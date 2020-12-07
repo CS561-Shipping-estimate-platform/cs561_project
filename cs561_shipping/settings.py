@@ -138,5 +138,5 @@ DATETIME_FORMAT = '%m/%d/%Y %I:%M'
 
 from dotenv import load_dotenv
 load_dotenv(os.path.join(BASE_DIR, '.env'))
-
+print(os.environ)
 GOOGLE_SECRET_KEY = os.getenv("GOOGLE_SECRET_KEY")
