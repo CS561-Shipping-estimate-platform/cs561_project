@@ -19,7 +19,13 @@ def searchForm(request):
     return render(request, 'index.html')
 
 def index(request):
-    return render(request, 'index.html')
+    from django.conf import settings
+    context = {
+        'api_key' : settings.GOOGLE_SECRET_KEY
+    }
+    print(context)
+    request.data = context
+    return render(request, 'index.html', context)
 
 def table(request):
     data = {"data": [

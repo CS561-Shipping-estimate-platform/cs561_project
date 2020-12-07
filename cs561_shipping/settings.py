@@ -134,3 +134,9 @@ STATICFILES_DIRS = [
 ]
 
 DATETIME_FORMAT = '%m/%d/%Y %I:%M'
+
+
+from dotenv import load_dotenv
+load_dotenv(os.path.join(BASE_DIR, '.env'))
+
+GOOGLE_SECRET_KEY = os.getenv("GOOGLE_SECRET_KEY")
