@@ -32,4 +32,4 @@ jobs:
       with:
         app-name: 'ShippingCheap'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_6ab7f4ac10c641339d00d7bceef0513e }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_f9b26854458c41789d76ffd9ec55e539 }}
