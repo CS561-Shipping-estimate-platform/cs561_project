@@ -2,3 +2,6 @@ __pycache__
 home/__pycache__
 cs561_shipping/__pycache__
 home/static/.DS_Store
+.DS_Store
+home/.DS_Store
+home/static/.DS_Store
