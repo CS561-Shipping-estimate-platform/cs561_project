@@ -1,6 +1,6 @@
 <img src="https://c.tenor.com/26pNa498OS0AAAAi/warning-joypixels.gif" width="25px"> Because of the end of the project, we disconnect the Google Map and every logistic companies' API. Please visit the demonstration video on YouTube to see how's it works, the link is below.
 
-# CS 561 Project
+# CS 561 Project <img src="https://shippingcheap.azurewebsites.net/static/image/logo_new.png" width="25px">
 * Website: https://shippingcheap.azurewebsites.net/  
 * Demonstration video: https://youtu.be/oSD1NcuBMcI
 
