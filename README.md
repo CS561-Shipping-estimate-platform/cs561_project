@@ -1,8 +1,13 @@
 <img src="https://c.tenor.com/26pNa498OS0AAAAi/warning-joypixels.gif" width="25px"> Because of the end of the project, we disconnect the Google Map and every logistic companies' API. Please visit the demonstration video on YouTube to see how's it works, the link is below.
 
-# cs561_project
-Website: https://shippingcheap.azurewebsites.net/  
-Demonstration video: https://youtu.be/oSD1NcuBMcI
+# CS 561 Project
+* Website: https://shippingcheap.azurewebsites.net/  
+* Demonstration video: https://youtu.be/oSD1NcuBMcI
+
+# About Us
+This is a project for CS561 in 2020 Fall term at Oregon State University.
+
+Author: Sheng-Po Huang, Ta-wei Hwang, Yue Chen, Chuan Cheng, Jingyu Xiang, and Shih-Chao Hung.
 
 # Installation
 
